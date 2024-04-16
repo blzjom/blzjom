@@ -1,6 +1,6 @@
 ## Oi eu sou o Jonathan Mattos!
 
-- 🌱 Estudando HTML|CSS|JavaScript|TypeScript
+- 🌱 Estudando HTML | CSS | JavaScript | TypeScript
 
 ![blzjom GitHub stats](https://github-readme-stats.vercel.app/api?username=blzjom&show_icons=true&theme=transparent)
 
