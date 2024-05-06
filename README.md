@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Front-End+Developer+)](https://git.io/typing-svg)
 
-Olá, sou Jonathan Mattos! Um estudante apaixonado por desenvolvimento web.
+Sou um estudante apaixonado por desenvolvimento web.
 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é trabalhar um dia com Desenvolvimento Web Front-End.
 Tenho experiência com CSS, HTML, JavaScript, TypeScript, ReactJS, MySQL, MongoDB, SCRUM, KANBAN e APIs RestFull.
 
