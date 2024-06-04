@@ -9,8 +9,8 @@ Tenho experiência com CSS, HTML, JavaScript, TypeScript, ReactJS, MySQL, MongoD
 *******
 
 <div display="flex" align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blzjom&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blzjom&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=blzjom&theme=dark&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blzjom&layout=compact&langs_count=8&theme=dark"/>
 </div>
 	
 <h3 align="center">Linguagens e Ferramentas:</h3>
