@@ -1,6 +1,6 @@
 <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou o Jonathan Mattos </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1000&pause=1000&color=F7F5F4&background=1A1A1900&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Front-End;Developer)](https://git.io/typing-svg)
 
 Sou um estudante apaixonado por desenvolvimento web.
 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é trabalhar um dia com Desenvolvimento Web Front-End.
